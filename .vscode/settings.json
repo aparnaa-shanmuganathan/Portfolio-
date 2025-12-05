@@ -7,7 +7,7 @@
             "driver": "PostgreSQL",
             "name": "demo db",
             "username": "postgres",
-            "database": "manojdb",
+            "database": "aparnaa_db",
             "password": "jonam@9242",
             "connectionTimeout": 30
         }
