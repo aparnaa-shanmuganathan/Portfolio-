@@ -3,8 +3,7 @@
 Welcome to my personal portfolio website! This is where I showcase my projects, skills, and professional experiences. It’s designed to give a comprehensive overview of my work and capabilities.
 ## Live Demo
 
-You can view the live demo of the website here: [Portfolio Website](https://manojsvgit.github.io/Portfolio/)
-
+You can view the live demo of the website here: 
 
 ## Table of Contents
 
@@ -70,8 +69,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 4. **Push to the branch (`git push origin feature/YourFeature`)**
 5. **Create a new Pull Request**
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
