@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This is where I showcase my projects, skills, and professional experiences. It’s designed to give a comprehensive overview of my work and capabilities.
 ## Live Demo
 
-You can view the live demo of the website here: 
+You can view the live demo of the website here: https://aparnaa-a-s.netlify.app
 
 ## Table of Contents
 
