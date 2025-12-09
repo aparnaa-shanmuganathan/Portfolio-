@@ -69,4 +69,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 4. **Push to the branch (`git push origin feature/YourFeature`)**
 5. **Create a new Pull Request**
 
-
+## Credits
+- Manoj S V (https://github.com/manojsvgit)
+- C Vishwak Sena (https://github.com/vishwaksen21) 
